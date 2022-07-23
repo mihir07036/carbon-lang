@@ -7,16 +7,7 @@ SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
 -->
 
 <p align="center">
-  <a href="#why-build-carbon">Why?</a> |
-  <a href="#language-goals">Goals</a> |
-  <a href="#getting-started">Getting started</a> |
-  <a href="#join-us">Join us</a>
-</p>
 
-**See our [announcement video](https://youtu.be/omrY53kbVoA) from
-[CppNorth](https://cppnorth.ca/)**
-
-<a href="docs/images/snippets.md#quicksort">
 <!--
 Edit snippet in docs/images/snippets.md and:
 https://drive.google.com/drive/folders/1-rsUjiya7dSZ87L8kpZmu3MZghRVxzLA
